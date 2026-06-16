@@ -6,7 +6,7 @@ def mdc(a, b):
     return a
 
 def main():
-    a = int(input("Escrva uma vlaora para a: "))
+    a = int(input("Escreva uma vlaora para a: "))
     b = int(input("Informe um valor para b: "))
     print(mdc(a,b))
 main()
